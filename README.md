@@ -14,6 +14,6 @@ If the value used for the difference is 0, the bot will no longer learn, and wil
 The formatting for a config file is simply the 2 numbers seperated by a newline character. E.g, for values 12 and 0 (Which appears to be nearly optimal)
 
 ```
-0
+12
 0
 ```
